@@ -1,11 +1,11 @@
 # Permalinks
-permalink:           pretty
+permalink:           blog
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
-paginate:            1
+title:               Blog BRZ
+tagline:             Créative design
+url:                 https://breuze.github.io/Blog/
+paginate:            6
 baseurl:             ""
 
 # Assets
@@ -17,9 +17,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Pascal Breuzé
+  url:               https://twitter.com/breuze
+  email:             breuze.fr@gmail.com
 
 # Custom vars
 version:             2.0.0
